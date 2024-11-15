@@ -1,6 +1,6 @@
 ﻿namespace NoteAppUI
 {
-    partial class form1
+    partial class MainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
